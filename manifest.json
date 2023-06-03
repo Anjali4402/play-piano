@@ -1,0 +1,11 @@
+{
+    "name": "play piano",
+    "version": "1.0.0",
+    "description": "play piano",
+    "manifest_version":3,
+    "author": "Anjali Negi",
+    "action":{
+        "default_popup": "popup.html",
+        "default_title" : "play play"
+    }
+}
