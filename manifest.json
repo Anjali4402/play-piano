@@ -6,7 +6,7 @@
     "author": "Anjali Negi",
     "action":{
         "default_popup": "popup.html",
-        "default_title" : "play play",
-        "defautl_icon" : "logo.png"
+        "default_title" : "play own music",
+        "default_icon" : "logo.png"
     }
 }
